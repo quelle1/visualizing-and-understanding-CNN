@@ -8,3 +8,5 @@
 
 
 - [GitHub 入门使用教程-图文并茂](http://developer.51cto.com/art/201407/446249_all.htm) 很简洁的说明如何使用，看图即可明白。 
+![图像显示](images/git_workflow.png)
+
