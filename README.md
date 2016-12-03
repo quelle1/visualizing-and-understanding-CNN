@@ -13,6 +13,7 @@
 [可以点击这里](http://www.worldhello.net/gotgit/)
 
 
-- [GitHub 入门使用教程-图文并茂](http://developer.51cto.com/art/201407/446249_all.htm) 很简洁的说明如何使用，看图即可明白。 
-![图像显示](image/catpooled1_1_deconv_image_vis_rgb.png)
+- [GitHub 入门使用教程-图文并茂](http://developer.51cto.com/art/201407/446249_all.htm) 很简洁的说明如何使用，看图即可明白。
 
+
+![图像显示](image/catpooled1_1_deconv_image_vis_rgb.png) ,图像显示出错
