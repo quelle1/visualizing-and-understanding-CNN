@@ -1,0 +1,2 @@
+# visualizing-and-understanding-CNN
+刚开始结果非常不清楚，不能出现作者的结果，刚开始以为vis的问题，后面才知道是自己没有把caffe输入图像的流程弄清楚，想把代码的部分以后都放在github上不断更新
